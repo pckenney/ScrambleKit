@@ -1,0 +1,18 @@
+{
+  "name": "com.scramblekit",
+  "version": "0.0.1",
+  "displayName": "ScrambleKit",
+  "description": "Useful code for jamming",
+  "unity": "2020.3",
+  "keywords": [
+    "scramblekit",
+    "jam",
+    "tools",
+    "ludum"
+  ],
+  "author": {
+    "name": "pkenney",
+    "url": "https://github.com/pckenney"
+  },
+  "type": "tool"
+}
