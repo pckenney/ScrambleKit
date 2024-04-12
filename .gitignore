@@ -2,11 +2,14 @@
 # Unity generated #
 # =============== #
 Temp/
+Logs/
 Obj/
 UnityGenerated/
 Library/
+UserSettings/
 Assets/AssetStoreTools*
 .vs
+.vscode
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #

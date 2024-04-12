@@ -1,6 +1,6 @@
 Base code that I use for game jams.
 
-Most recently updated for Unity 2020.3.4f1
+Most recently updated for Unity 2022.3.23f1
 
 ## To install when you have an existing Unity project:
 
